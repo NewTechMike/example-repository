@@ -1,0 +1,12 @@
+body {
+    background: blue;
+}
+
+h1{
+    color: yellow;
+}
+
+h2{
+    border-color: violet;
+    font-style: italic;
+}
